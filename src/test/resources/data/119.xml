@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Content CONTENTID="200100119" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation=".\Content.xsd">
+	<!-- add start -->
+	<Version>1.1.0.2</Version>
+	<Sequence>abcdefg</Sequence>
+	<ContentID>200100119</ContentID>
+	
+	
+	<CPID>88</CPID>
+	<CreatorID>123123</CreatorID>
+	<!-- add start -->
+	<ECID>4567567</ECID>
+	<!-- add end -->
+	<CopyRightID>2123123</CopyRightID>
+	<Category>1</Category>
+	<Type>1</Type>
+	<FormType>1</FormType>
+	<DisplayType>01</DisplayType>
+	<Name>花木兰</Name>
+	<!-- add start -->
+	<ShortName>花木兰</ShortName>
+	<UDID>abcdefg</UDID>
+	<!-- add end -->
+	<Detail>内容简介:北魏，有个小女孩叫花木兰(徐娇饰演小花木兰)，与父亲花弧相依为命。从小受父亲影响偷练武功，私学阵 ...</Detail>
+	<!-- add start -->
+	<Author>花木兰</Author>
+
+	
+	
+</Content>
